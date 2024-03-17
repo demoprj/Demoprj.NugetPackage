@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    
+    <!-- https://learn.microsoft.com/en-us/dotnet/core/project-sdk/msbuild-props#nuget-metadata-properties -->
+    <PackageId>Demoprj.NugetPackage</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>tokoyi</Authors>
+    <Company>tokoyi</Company>
+  </PropertyGroup>
+
+</Project>
